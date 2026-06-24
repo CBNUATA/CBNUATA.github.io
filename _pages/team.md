@@ -9,10 +9,7 @@ description: Members of the lab / group.
 profiles:
   - align: right
     image: prof_pic.jpg
-    content: >
-      <p>Hyunki Cho, Dr. rer. nat.</p>
-      <p>Senior Researcher</p>
-      <p>Korea Testing & Research Institute (KTR)</p>
+    content: team-hyunki-cho.md
 ---
 
 <!-- To add more members, copy a block in the `profiles:` list above and edit it. -->
