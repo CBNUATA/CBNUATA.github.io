@@ -32,8 +32,6 @@ title: Home
 {% endfor %}
 </div>
 
-social: true # includes social icons at the bottom of the page
-
 <div style="text-align: center; margin-top: 2rem;">
   <a href="mailto:h.cho@ktr.or.kr" style="margin: 0 0.6rem;">Email</a> ·
   <a href="https://www.linkedin.com/in/hyunki-cho-60b393354" target="_blank" style="margin: 0 0.6rem;">LinkedIn</a> ·
