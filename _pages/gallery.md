@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery
+title: Gallery
 nav: true
 nav_order: 7
 description: Photos from the lab, fieldwork, and events.
