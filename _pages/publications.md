@@ -7,6 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+  .publications u {
+    font-weight: bold;
+    text-decoration: none;
+  }
+</style>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
