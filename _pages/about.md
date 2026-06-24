@@ -1,12 +1,8 @@
 ---
 layout: page
 permalink: /
-title: Home
-nav: true
-nav_order: 1
+title: Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab
 ---
-
-<h1 style="font-size: clamp(1.3rem, 4.2vw, 2rem); font-weight: bold; margin-bottom: 0.75rem;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h1>
 
 <p>I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing &amp; Research Institute (KTR), where I work on chemical characterization and extractables &amp; leachables (E&amp;L) testing of medical devices in accordance with ISO 10993-18.</p>
 
