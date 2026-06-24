@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hyeonki
+first_name: Hyunki
 middle_name:
 last_name: Cho
 contact_note: >
@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Hyeonki Cho
+blog_name: Hyunki Cho
 blog_description: Notes on chemical characterization, biocompatibility, and toxicology
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -341,7 +341,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Cho]
-  first_name: [Hyeonki, H.]
+  first_name: [Hyunki, H, HK]
 
   style: apa
   locale: en
