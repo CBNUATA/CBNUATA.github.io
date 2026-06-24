@@ -1,0 +1,97 @@
+cv:
+  name: Hyeonki Cho
+  label: Senior Researcher, Chemical Characterization
+  email: YOUR-EMAIL@example.com
+  location: Korea
+  image: ""
+  summary: Senior Researcher specializing in biocompatibility, extractables & leachables (E&L) chemical characterization, and in vitro/alternative toxicology.
+
+  social_networks:
+    - network: GitHub
+      username: CBNUATA
+    # - network: LinkedIn
+    #   username: YOUR-LINKEDIN-USERNAME
+
+  sections:
+    Education:
+      - institution: Saarland University
+        location: Saarland, Germany
+        area: Pharmacy
+        studyType: Dr. rer. nat. (Ph.D.)
+        start_date: "[ADD YEAR]"
+        end_date: "[ADD YEAR]"
+        courses: "Doctoral research conducted at KIST-Europe"
+        highlights:
+          - "Advisors: Prof. Markus R. Meyer, Prof. Alexandra K. Kiemer"
+
+      - institution: Chungbuk National University
+        location: Korea
+        area: Industrial Plant Science (double major in Biochemistry)
+        studyType: M.S.
+        start_date: "[ADD YEAR]"
+        end_date: "[ADD YEAR]"
+
+      - institution: Chungbuk National University
+        location: Korea
+        area: Industrial Plant Science (double major in Biochemistry)
+        studyType: B.S.
+        start_date: "[ADD YEAR]"
+        end_date: "[ADD YEAR]"
+
+    Experience:
+      - company: KTR (Korea Testing & Research Institute), Medical Device Evaluation Center
+        position: Senior Researcher, Chemical Characterization Team
+        location: Korea
+        start_date: "[ADD START DATE]"
+        end_date: Present
+        summary: Biocompatibility and extractables & leachables (E&L) analysis for medical devices under ISO 10993-18.
+        highlights:
+          - GC/LC-Orbitrap non-targeted analysis (NTA) and in-house spectral library construction
+          - FT-IR spectral characterization and reporting
+          - Semi-quantification under KOLAS/ISO 17025 accreditation
+
+      - company: KIST-Europe
+        position: Doctoral Researcher
+        location: Saarbrücken, Germany
+        start_date: "[ADD DATE]"
+        end_date: "[ADD DATE]"
+        summary: Doctoral research under Prof. Markus R. Meyer and Prof. Alexandra K. Kiemer (Saarland University).
+        highlights:
+          - TRα/TRβ stable reporter cell lines in 293FT cells via lentiviral transduction
+          - TPO microsomal assay using SF9 insect cell overexpression
+          - "Daphnia magna metabolomics via Sciex TripleTOF 6600+ SWATH (MS-DIAL / LipidBlast)"
+
+    Skills:
+      - name: Chemical characterization & E&L analysis
+        level: Senior
+        icon: fa-solid fa-flask
+        keywords: "ISO 10993-18, non-targeted analysis (NTA), GC-MS, LC-HRMS (Orbitrap), FT-IR, Schymanski identification levels, KOLAS/ISO 17025 semi-quantification"
+
+      - name: In vitro toxicology
+        level: Senior
+        icon: fa-solid fa-dna
+        keywords: "Thyroid receptor (TRα/TRβ) reporter assays, CYP450/steroidogenesis assays, AOP framework, H295R cells"
+
+      - name: Multi-omics & ecotoxicology
+        level: Senior
+        icon: fa-solid fa-chart-line
+        keywords: "Lipidomics, metabolomics, transcriptomics, Daphnia magna and zebrafish ecotoxicology, TTC-based risk assessment"
+
+    Publications:
+      - title: "[ADD FULL TITLE] — Thyroid spheroid microspheres using an OMA hydrogel platform with GGGGRGDSP and GGGGTRSAW peptides"
+        authors:
+          - Hyeonki Cho
+          - "[ADD CO-AUTHORS]"
+        publisher: Small
+        releaseDate: "2023"
+        url: "[ADD LINK]"
+        summary: "[ADD ABSTRACT/SUMMARY]"
+
+      - title: "[ADD FULL TITLE] — Melt electrowriting (MEW)-based scaffold platform for thyroid cell modeling and EDC toxicity evaluation"
+        authors:
+          - Hyeonki Cho
+          - "[ADD CO-AUTHORS]"
+        publisher: "[ADD JOURNAL]"
+        releaseDate: "[ADD YEAR]"
+        url: "[ADD LINK, if available]"
+        summary: "[ADD ABSTRACT/SUMMARY]"
