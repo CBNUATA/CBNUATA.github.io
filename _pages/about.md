@@ -44,3 +44,4 @@ title: Home
   <a href="https://scholar.google.com/citations?user=QkfTLzUAAAAJ&hl=en" target="_blank" style="margin: 0 0.6rem;">Google Scholar</a> ·
   <a href="https://www.researchgate.net/profile/Hyunki-Cho-2" target="_blank" style="margin: 0 0.6rem;">ResearchGate</a>
 </div>
+<p style="text-align: center; font-size: 0.9rem; opacity: 0.8; margin-top: 0.5rem;">Senior Researcher, Chemical Characterization Team, KTR Medical Device Evaluation Center</p>
