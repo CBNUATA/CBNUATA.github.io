@@ -1,7 +1,9 @@
 ---
 layout: about
-title: Home
+title: home
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Senior Researcher, Medical Device Evaluation Center · Korea Testing & Research Institute (KTR)
 
 profile:
@@ -27,7 +29,24 @@ latest_posts:
   limit: 3
 ---
 
-I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing & Research Institute (KTR), where I work on chemical characterization and extractables & leachables (E&L) testing of medical devices in accordance with ISO 10993-18. My work involves non-targeted and targeted chemical characterization using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC), GC-MS, ICP-OES, and FT-IR.
+<div class="mb-8">
+  <h2 class="text-2xl font-bold mb-3">Welcome</h2>
+  <p>I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing &amp; Research Institute (KTR), where I work on chemical characterization and extractables &amp; leachables (E&amp;L) testing of medical devices in accordance with ISO 10993-18.</p>
+</div>
+
+<!--
+  Photo grid (like the lab homepage you shared) — replace these placeholder
+  paths with your own photos once uploaded to assets/img/gallery/
+-->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+  <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" class="rounded-lg w-full h-56 object-cover md:col-span-2" alt="Photo 1">
+  <div class="grid grid-rows-2 gap-4">
+    <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" class="rounded-lg w-full h-full object-cover" alt="Photo 2">
+    <img src="{{ '/assets/img/gallery/photo3.jpg' | relative_url }}" class="rounded-lg w-full h-full object-cover" alt="Photo 3">
+  </div>
+</div>
+
+---
 
 I hold a Dr. rer. nat. in Pharmacy (Pharmazie) from Universität des Saarlandes, Germany, completed under the supervision of Prof. Dr. Markus R. Meyer and Prof. Dr. Alexandra K. Kiemer, with doctoral research conducted at the Environmental Safety Group, KIST-Europe (Saarbrücken). My doctoral thesis developed an Adverse Outcome Pathway (AOP) for 5α-reductase inhibition and its environmental implications for endocrine disruption. I received my M.Sc. and B.Sc. in Industrial Crop Science and Technology (with a double major in Biochemistry) from Chungbuk National University, Korea.
 
