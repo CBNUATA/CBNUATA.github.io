@@ -2,8 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: h.cho@ktr.or.kr # your email address
-rss_icon: true # comment this line to hide the RSS icon
-linkedin_username: # <-- ADD your LinkedIn username (the part after linkedin.com/in/)
-scholar_userid: # <-- ADD your Google Scholar user ID (the part after ?user= in your scholar profile URL)
-research_gate_profile: # <-- ADD your ResearchGate profile slug (the part after researchgate.net/profile/)
+linkedin_username: hyunki-cho-60b393354
+scholar_userid: QkfTLzUAAAAJ
+research_gate_profile: Hyunki-Cho-2
 

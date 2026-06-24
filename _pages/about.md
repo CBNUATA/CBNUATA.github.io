@@ -2,8 +2,6 @@
 layout: about
 title: home
 permalink: /
-nav: true
-nav_order: 1
 subtitle: Senior Researcher, Medical Device Evaluation Center · Korea Testing & Research Institute (KTR)
 
 profile:
@@ -29,8 +27,8 @@ latest_posts:
   limit: 3
 ---
 
-<div class="mb-8">
-  <h2 class="text-lg md:text-2xl font-bold mb-3 md:whitespace-nowrap">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
+<div style="margin-bottom: 2rem;">
+  <h2 style="font-size: 1.5rem; font-weight: bold; margin-bottom: 0.75rem;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
   <p>I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing &amp; Research Institute (KTR), where I work on chemical characterization and extractables &amp; leachables (E&amp;L) testing of medical devices in accordance with ISO 10993-18.</p>
 </div>
 
@@ -38,11 +36,11 @@ latest_posts:
   Photo grid (like the lab homepage you shared) — replace these placeholder
   paths with your own photos once uploaded to assets/img/gallery/
 -->
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-  <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" class="rounded-lg w-full h-56 object-cover md:col-span-2" alt="Photo 1">
-  <div class="grid grid-rows-2 gap-4">
-    <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" class="rounded-lg w-full h-full object-cover" alt="Photo 2">
-    <img src="{{ '/assets/img/gallery/photo3.jpg' | relative_url }}" class="rounded-lg w-full h-full object-cover" alt="Photo 3">
+<div style="display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap;">
+  <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" style="border-radius: 0.5rem; width: 100%; max-width: 480px; height: 224px; object-fit: cover; flex: 2 1 300px;" alt="Photo 1">
+  <div style="display: flex; flex-direction: column; gap: 1rem; flex: 1 1 140px;">
+    <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" style="border-radius: 0.5rem; width: 100%; height: 104px; object-fit: cover;" alt="Photo 2">
+    <img src="{{ '/assets/img/gallery/photo3.jpg' | relative_url }}" style="border-radius: 0.5rem; width: 100%; height: 104px; object-fit: cover;" alt="Photo 3">
   </div>
 </div>
 
