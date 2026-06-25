@@ -4,7 +4,6 @@ title: Home
 permalink: /
 subtitle: Senior Researcher, Medical Device Evaluation Center · Korea Testing & Research Institute (KTR)
 
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -18,6 +17,15 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
+<style>
+  /* Hide the theme's auto-rendered name/subtitle header (h1 + the paragraph
+     right after it). Our own Welcome heading below uses <h2>, so it is unaffected. */
+  h1:first-of-type,
+  h1:first-of-type + p {
+    display: none;
+  }
+</style>
 
 <div style="margin-bottom: 2rem;">
   <h2 style="font-size: clamp(1.05rem, 3.4vw, 1.5rem); font-weight: bold; margin-bottom: 0.75rem; white-space: nowrap;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
