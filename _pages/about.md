@@ -4,6 +4,15 @@ title: Home
 permalink: /
 subtitle: Senior Researcher, Medical Device Evaluation Center · Korea Testing & Research Institute (KTR)
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Korea Testing &amp; Research Institute (KTR)</p>
+    <p>Medical Device Evaluation Center</p>
+    <p>Gwacheon, Republic of Korea</p>
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -28,7 +37,7 @@ latest_posts:
 </style>
 
 <div style="margin-bottom: 2rem;">
-  <h2 style="font-size: clamp(1.6rem, 5vw, 2.4rem); font-weight: bold; margin-bottom: 0.75rem; white-space: nowrap;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
+  <h2 style="font-size: clamp(1.05rem, 3.4vw, 1.5rem); font-weight: bold; margin-bottom: 0.75rem; white-space: nowrap;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
   <p>I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing &amp; Research Institute (KTR), where I work on chemical characterization and extractables &amp; leachables (E&amp;L) testing of medical devices in accordance with ISO 10993-18.</p>
 </div>
 
