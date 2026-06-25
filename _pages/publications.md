@@ -1,4 +1,12 @@
 ---
+<style>
+  .publications u {
+    font-weight: bold;
+    text-decoration: none;
+  }
+</style>
+
+
 layout: page
 permalink: /publications/
 title: Publications
