@@ -341,7 +341,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Cho]
-  first_name: [Hyunki, H, HK, "H.K.", "H.K", "H.G."]
+  first_name: [Hyunki, H, "H.", HK, "H.K.", "H.K"]
 
   style: apa
   locale: en
