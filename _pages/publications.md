@@ -8,12 +8,41 @@ nav_order: 4
 ---
 
 <style>
+  /* Bold the site owner's own name in author lists instead of the default underline */
   .publications u {
     font-weight: bold;
     text-decoration: none;
   }
+
+  /* Make publication numbering continuous across year groups instead of
+     restarting at 1 for each year */
+  .publications {
+    counter-reset: pub-counter;
+  }
+  .publications ol {
+    list-style: none;
+    padding-left: 0;
+  }
+  .publications ol > li {
+    counter-increment: pub-counter;
+    position: relative;
+    padding-left: 2rem;
+  }
+  .publications ol > li::before {
+    content: counter(pub-counter) ".";
+    position: absolute;
+    left: 0;
+  }
 </style>
+
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
+<div class="publications">
+
 {% bibliography %}
+
+</div>
