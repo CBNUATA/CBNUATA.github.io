@@ -28,7 +28,7 @@ latest_posts:
 </style>
 
 <div style="margin-bottom: 2rem;">
-  <h2 style="font-size: clamp(1.3rem, 4.2vw, 2rem); font-weight: bold; margin-bottom: 0.75rem;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
+  <h2 style="font-size: clamp(1.6rem, 5vw, 2.4rem); font-weight: bold; margin-bottom: 0.75rem; white-space: nowrap;">Welcome to the Alternative Toxicology &amp; Analytics (ATA) Lab</h2>
   <p>I am a Senior Researcher at the Medical Device Evaluation Center, Korea Testing &amp; Research Institute (KTR), where I work on chemical characterization and extractables &amp; leachables (E&amp;L) testing of medical devices in accordance with ISO 10993-18.</p>
 </div>
 
