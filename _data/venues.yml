@@ -1,63 +1,111 @@
+# Custom (originally assigned) abbreviations
 "Toxicol Res":
   url: https://link.springer.com/journal/43188
-  color: "#3a6ea5"
+  color: "#e63946"
 
 "JHM":
   url: https://www.sciencedirect.com/journal/journal-of-hazardous-materials
-  color: "#b23a48"
+  color: "#f4a300"
 
 "TMM":
   url: https://www.tandfonline.com/journals/itxm20
-  color: "#5e8c61"
+  color: "#2a9d8f"
 
 "CBP-C":
   url: https://www.sciencedirect.com/journal/comparative-biochemistry-and-physiology-part-c-toxicology-and-pharmacology
-  color: "#7a5195"
+  color: "#7209b7"
 
 "EES":
   url: https://www.sciencedirect.com/journal/ecotoxicology-and-environmental-safety
-  color: "#bc5090"
+  color: "#e76f51"
 
 "CIMB":
   url: https://www.mdpi.com/journal/cimb
-  color: "#ef5675"
+  color: "#3a86ff"
 
 "Tox In Vitro":
   url: https://www.sciencedirect.com/journal/toxicology-in-vitro
-  color: "#ff764a"
+  color: "#fb8500"
 
 "Small":
   url: https://onlinelibrary.wiley.com/journal/16136829
-  color: "#003f5c"
+  color: "#023047"
 
 "FBL":
   url: https://www.imrpress.com/journal/FBL
-  color: "#444e86"
+  color: "#8338ec"
 
 "Front Pharmacol":
   url: https://www.frontiersin.org/journals/pharmacology
-  color: "#955196"
+  color: "#ff006e"
 
 "ESPR":
   url: https://link.springer.com/journal/11356
-  color: "#dd5182"
+  color: "#06a77d"
 
 "FCT":
   url: https://www.sciencedirect.com/journal/food-and-chemical-toxicology
-  color: "#ff6e54"
+  color: "#d62828"
 
 "Molecules":
   url: https://www.mdpi.com/journal/molecules
-  color: "#ffa600"
+  color: "#ffb703"
 
 "Inhal Toxicol":
   url: https://www.tandfonline.com/journals/iiht20
-  color: "#665191"
+  color: "#6a4c93"
 
 "ETAP":
   url: https://www.sciencedirect.com/journal/environmental-toxicology-and-pharmacology
-  color: "#a05195"
+  color: "#1982c4"
 
 "TIH":
   url: https://journals.sagepub.com/home/tih
-  color: "#d45087"
+  color: "#ff595e"
+
+# Auto-generated abbreviation forms the theme appears to use for well-known
+# journals (overriding the custom "abbr" field above) — same color scheme
+# applied here so the badges stay varied either way.
+"Toxicol. Res.":
+  url: https://link.springer.com/journal/43188
+  color: "#e63946"
+
+"J. Hazard. Mater.":
+  url: https://www.sciencedirect.com/journal/journal-of-hazardous-materials
+  color: "#f4a300"
+
+"Toxicol. Mech. Methods":
+  url: https://www.tandfonline.com/journals/itxm20
+  color: "#2a9d8f"
+
+"Curr. Issues Mol. Biol.":
+  url: https://www.mdpi.com/journal/cimb
+  color: "#3a86ff"
+
+"Toxicol. in Vitro":
+  url: https://www.sciencedirect.com/journal/toxicology-in-vitro
+  color: "#fb8500"
+
+"Front. Pharmacol.":
+  url: https://www.frontiersin.org/journals/pharmacology
+  color: "#ff006e"
+
+"Ecotoxicol. Environ. Saf.":
+  url: https://www.sciencedirect.com/journal/ecotoxicology-and-environmental-safety
+  color: "#e76f51"
+
+"Food Chem. Toxicol.":
+  url: https://www.sciencedirect.com/journal/food-and-chemical-toxicology
+  color: "#d62828"
+
+"Inhal. Toxicol.":
+  url: https://www.tandfonline.com/journals/iiht20
+  color: "#6a4c93"
+
+"Environ. Toxicol. Pharmacol.":
+  url: https://www.sciencedirect.com/journal/environmental-toxicology-and-pharmacology
+  color: "#1982c4"
+
+"Toxicol. Ind. Health":
+  url: https://journals.sagepub.com/home/tih
+  color: "#ff595e"
