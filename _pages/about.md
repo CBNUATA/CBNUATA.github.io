@@ -46,3 +46,6 @@ I hold a Dr. rer. nat. in Pharmacy (Pharmazie) from Universität des Saarlandes,
 
 My research has spanned **endocrine disruptor toxicity assessment** — building AOPs across in vitro models (H295R, 293FT, SF9, zebrafish embryos, *Daphnia magna*), non-targeted metabolomics/lipidomics via QTOF HR-MS, CYP450 metabolism, and hormone receptor reporter assays — as well as **environmental and tobacco-smoke toxicology** and, currently, **chemical characterization for medical device biocompatibility**. I'm interested in bridging these areas into an integrated chemical safety-assessment framework that connects analytical chemistry with mechanistic toxicology.
 EOF
+git add -A
+git commit -m "Resolve merge conflict again, finalize Home page"
+git push origin main
