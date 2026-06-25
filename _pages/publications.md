@@ -1,12 +1,4 @@
 ---
-<style>
-  .publications u {
-    font-weight: bold;
-    text-decoration: none;
-  }
-</style>
-
-
 layout: page
 permalink: /publications/
 title: Publications
@@ -15,14 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
+<style>
+  .publications u {
+    font-weight: bold;
+    text-decoration: none;
+  }
+</style>
 
 {% include bib_search.liquid %}
 
-<div class="publications">
-
 {% bibliography %}
-
-</div>
