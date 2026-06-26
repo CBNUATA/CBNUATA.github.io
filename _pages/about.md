@@ -4,13 +4,7 @@ title: Home
 permalink: /
 subtitle: Senior Researcher, Medical Device Evaluation Center · Korea Testing & Research Institute (KTR)
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>Korea Testing &amp; Research Institute (KTR)</p>
-    <p>Medical Device Evaluation Center</p>
-    <p>Gwacheon, Republic of Korea</p>
+
 selected_papers: false
 social: true
 announcements:
