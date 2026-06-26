@@ -11,9 +11,6 @@ profiles:
     image: prof_pic.jpg
     content: team-hyunki-cho.md
 ---
-<style>
-  .profile { width: 100% !important; }
-</style>
+
 <!-- To add more members, copy a block in the `profiles:` list above and edit it. -->
 <!-- To add more members, copy a block in the `profiles:` list above and edit it. -->
----
