@@ -1,4 +1,4 @@
-<style>
+html<style>
   .profile { width: 100% !important; }
 </style>
 <p>Dr. rer. nat. Hyunki Cho</p>
