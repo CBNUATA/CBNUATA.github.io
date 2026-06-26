@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed my Dr. rer. nat. in Pharmacy at Universität des Saarlandes, Germany.
+Completed my Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät (Pharmazie) at Universität des Saarlandes, Germany.
