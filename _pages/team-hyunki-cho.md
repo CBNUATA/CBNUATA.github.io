@@ -13,9 +13,9 @@
 
 <h3>Education</h3>
 <ul>
-  <li>Dr. rer. nat. in Pharmacy, <strong>Universität des Saarlandes</strong>, Saarbrücken, Germany, 2020–2025</li>
-  <li>M.Sc. in Industrial Crop Science and Technology, <strong>Chungbuk National University</strong>, Republic of Korea, 2017–2019</li>
-  <li>B.Sc. in Biochemistry / Industrial Crop Science and Technology (double major), <strong>Chungbuk National University</strong>, Republic of Korea, 2011–2017</li>
+  <li>Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät, <strong>Universität des Saarlandes</strong>, Saarbrücken, Germany, 2020–2025</li>
+  <li>M.Sc. in Industrial Plant Science and Technology, <strong>Chungbuk National University</strong>, Republic of Korea, 2017–2019</li>
+  <li>B.Sc. in Industrial Plant Science and Technology/ Biochemistry (double major), <strong>Chungbuk National University</strong>, Republic of Korea, 2011–2017</li>
 </ul>
 
 <h3>Work Experience</h3>
