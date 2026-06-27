@@ -13,4 +13,3 @@ profiles:
 ---
 
 <!-- To add more members, copy a block in the `profiles:` list above and edit it. -->
-<!-- To add more members, copy a block in the `profiles:` list above and edit it. -->
