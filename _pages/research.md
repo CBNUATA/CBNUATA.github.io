@@ -52,11 +52,11 @@ Development of AOPs for environmental endocrine disruptors across in vitro model
 </div>
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/multiomics.jpg' | relative_url }}" alt="Multi-omics & ecotoxicology">
+  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="Construction of in vitro models">
   <div class="research-text" markdown="1">
 
-### Multi-omics & ecotoxicology
-Non-targeted metabolomics and lipidomics (QTOF HR-MS) to characterize metabolic and lipid signaling disruption in *Daphnia magna* and zebrafish models exposed to environmental contaminants, including microplastics and endocrine-disrupting chemicals.
+### Construction of in vitro models
+Development of three-dimensional *in vitro* platforms as New Approach Methodologies (NAMs) for alternative toxicology, including thyroid spheroid microspheres engineered from peptide-modified hydrogels (GGGGRGDSP, GGGGTRSAW) and melt electrowriting (MEW)-based scaffolds, to model thyroid cell function and evaluate endocrine-disrupting chemical (EDC) toxicity.
 
   </div>
 </div>
