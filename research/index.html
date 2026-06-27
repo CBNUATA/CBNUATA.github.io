@@ -7,22 +7,23 @@
   </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> ATA Lab </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">Home </a> </li> <li class="nav-item "> <a class="nav-link" href="/team/">Team </a> </li> <li class="nav-item active"> <a class="nav-link" href="/research/">Research <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">Projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/gallery/">Gallery </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Research</h1> <p class="post-description">Research interests and areas of focus.</p> </header> <article> <style>
   .research-row {
     display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 1rem;
-    padding: 2.5rem 1.5rem;
+    gap: 1.5rem;
+    align-items: center;
+    padding: 2rem 1.5rem;
+    flex-wrap: wrap;
     border-radius: 0.75rem;
   }
   .research-row:nth-child(odd) { background: rgba(255, 255, 255, 0.04); }
   .research-row img {
-    width: 100%;
+    width: 220px;
+    max-width: 100%;
     height: auto;
-    max-width: 800px;
     object-fit: contain;
     border-radius: 0.5rem;
-    margin: 0 auto;
+    flex-shrink: 0;
   }
-  .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0.5rem; margin-bottom: 0.75rem; }
+  .research-row .research-text { flex: 1 1 320px; }
+  .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0; margin-bottom: 0.75rem; }
 </style> <p>My research sits at the intersection of analytical chemistry and toxicology, spanning the following areas:</p> <div class="research-row"> <p><img src="/assets/img/research/chemical-characterization.jpg" alt="Chemical characterization &amp; E&amp;L"></p> <div class="research-text"> <h3 id="chemical-characterization--extractablesleachables-el">Chemical characterization &amp; extractables/leachables (E&amp;L)</h3> <p>Non-targeted and targeted chemical characterization of medical devices in accordance with ISO 10993-18, using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC), GC-MS, ICP-OES, and FT-IR to identify and structurally characterize extractable chemical profiles.</p> </div> </div> <div class="research-row"> <p><img src="/assets/img/research/aop.jpg" alt="Endocrine disruptor toxicity &amp; AOPs"></p> <div class="research-text"> <h3 id="endocrine-disruptor-toxicity--adverse-outcome-pathways-aops">Endocrine disruptor toxicity &amp; adverse outcome pathways (AOPs)</h3> <p>Development of AOPs for environmental endocrine disruptors across in vitro models (H295R, 293FT, SF9, zebrafish embryos, <em>Daphnia magna</em>), including hormone receptor reporter assays (androgen, estrogen, thyroid), CYP450/CYP2D6 metabolism, and quantitative steroid hormone assays via LC-MS/MS and GC-MS/MS.</p> </div> </div> <div class="research-row"> <p><img src="/assets/img/research/in-vitro-model.jpg" alt="Construction of in vitro models"></p> <div class="research-text"> <h3 id="construction-of-in-vitro-models">Construction of in vitro models</h3> <p>Development of three-dimensional <em>in vitro</em> platforms as New Approach Methodologies (NAMs) for alternative toxicology, including thyroid spheroid microspheres engineered from peptide-modified hydrogels (GGGGRGDSP, GGGGTRSAW) and melt electrowriting (MEW)-based scaffolds, to model thyroid cell function and evaluate endocrine-disrupting chemical (EDC) toxicity.</p> </div> </div> <div class="research-row"> <p><img src="/assets/img/research/tobacco-smoke.jpg" alt="Environmental &amp; tobacco-smoke toxicology"></p> <div class="research-text"> <h3 id="environmental--tobacco-smoke-toxicology">Environmental &amp; tobacco-smoke toxicology</h3> <p>In vitro toxicological evaluation of airborne particulate matter (PM2.5, coal combustion particles) and tobacco smoke constituents, including mutagenicity, cytotoxicity, and oxidative stress assays.</p> </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Hyunki Cho. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
