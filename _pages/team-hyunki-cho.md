@@ -9,11 +9,11 @@
   <p style="margin: 0; font-weight: bold;">Korea Testing &amp; Research Institute (KTR)</p>
 </div>
 
-<p>I hold a Dr. rer. nat. in Pharmacy from Universität des Saarlandes, Germany, with doctoral research conducted at KIST-Europe under Prof. Dr. Markus R. Meyer and Prof. Dr. Alexandra K. Kiemer. My work spans ISO 10993-18 extractables &amp; leachables (E&amp;L) analysis, in vitro toxicology using AOP frameworks, multi-omics approaches, and biocompatibility assessment of medical devices.</p>
+<p>I hold a Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät (Pharmazie) from Universität des Saarlandes, Germany, with doctoral research conducted at KIST-Europe under Prof. Dr. Markus R. Meyer and Prof. Dr. Alexandra K. Kiemer. My work spans ISO 10993-18 extractables &amp; leachables (E&amp;L) analysis, in vitro toxicology using AOP frameworks, multi-omics approaches, and biocompatibility assessment of medical devices.</p>
 
 <h3>Education</h3>
 <ul>
-  <li>Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät, <strong>Universität des Saarlandes</strong>, Saarbrücken, Germany, 2020–2025</li>
+  <li>Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät (Pharmazie), <strong>Universität des Saarlandes</strong>, Saarbrücken, Germany, 2020–2025</li>
   <li>M.Sc. in Industrial Plant Science and Technology, <strong>Chungbuk National University</strong>, Republic of Korea, 2017–2019</li>
   <li>B.Sc. in Industrial Plant Science and Technology/ Biochemistry (double major), <strong>Chungbuk National University</strong>, Republic of Korea, 2011–2017</li>
 </ul>
