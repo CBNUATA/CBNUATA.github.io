@@ -9,22 +9,23 @@ description: Research interests and areas of focus.
 <style>
   .research-row {
     display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 1rem;
-    padding: 2.5rem 1.5rem;
+    gap: 1.5rem;
+    align-items: center;
+    padding: 2rem 1.5rem;
+    flex-wrap: wrap;
     border-radius: 0.75rem;
   }
   .research-row:nth-child(odd) { background: rgba(255, 255, 255, 0.04); }
   .research-row img {
-    width: 100%;
+    width: 220px;
+    max-width: 100%;
     height: auto;
-    max-width: 800px;
     object-fit: contain;
     border-radius: 0.5rem;
-    margin: 0 auto;
+    flex-shrink: 0;
   }
-  .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0.5rem; margin-bottom: 0.75rem; }
+  .research-row .research-text { flex: 1 1 320px; }
+  .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0; margin-bottom: 0.75rem; }
 </style>
 My research sits at the intersection of analytical chemistry and toxicology, spanning the following areas:
 <div class="research-row" markdown="1">
