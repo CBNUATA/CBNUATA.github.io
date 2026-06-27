@@ -7,7 +7,9 @@ nav_order: 3
 description: Research interests and areas of focus.
 ---
 
-My research sits at the intersection of analytical chemistry and toxicology, spanning the following areas:
+<style>
+  .post h3 { margin-top: 2.5rem; }
+</style>
 
 ### Chemical characterization & extractables/leachables (E&L)
 Non-targeted and targeted chemical characterization of medical devices in accordance with ISO 10993-18, using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC), GC-MS, ICP-OES, and FT-IR to identify and structurally characterize extractable chemical profiles.
