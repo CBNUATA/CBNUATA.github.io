@@ -14,7 +14,7 @@
 <h3>Education</h3>
 <ul>
   <li>Dr. rer. nat. (Pharmacy), <strong>Universität des Saarlandes</strong>, Saarbrücken, Germany, 2020–2025</li>
-  <li>M.S. in Agriculture (Industrial Plant Science and Technology), <strong>Chungbuk National University</strong>, Republic of Korea, 2017–2019</li>
+  <li>M.S. in Agriculture (Industrial Plant Science & Technology), <strong>Chungbuk National University</strong>, Republic of Korea, 2017–2019</li>
   <li>B.S. in Agriculture (Industrial Plant Science & Technology) & B.S. (Biochemistry, Interdisciplinary Major), <strong>Chungbuk National University</strong>, Republic of Korea, 2011–2017</li>
 </ul>
 
