@@ -35,7 +35,7 @@ My research sits at the intersection of analytical chemistry and toxicology, spa
   <div class="research-text" markdown="1">
 
 ### Suspect & non-target screening
-Non-targeted and suspect screening of extractable and leachable chemicals from medical devices and natural product-derived materials, using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC) and GC-MS to identify and structurally characterize chemical profiles in accordance with ISO 10993-18.
+Suspect and non-targeted screening of bioactive compounds and chemical contaminants using high-resolution mass spectrometry (HRMS), enabling systematic identification and structural characterization of chemical profiles from complex matrices.
 
   </div>
 </div>
@@ -45,7 +45,7 @@ Non-targeted and suspect screening of extractable and leachable chemicals from m
   <div class="research-text" markdown="1">
 
 ### *In vitro* model development
-Development of three-dimensional *in vitro* platforms as New Approach Methodologies (NAMs), including thyroid spheroid microspheres engineered from peptide-modified hydrogels (GGGGRGDSP, GGGGTRSAW) and melt electrowriting (MEW)-based scaffolds, and receptor-based reporter cell lines (THR, AhR, EcR) for endocrine toxicity assessment.
+Development of *in vitro* bioassay platforms to evaluate the toxicological and pharmacological effects of plant-derived compounds and chemical substances. Established models include a granisetron-based CYP1A1 reporter assay, thyroid-specific evaluation systems (TSHR and TPO activity assays), and three-dimensional thyroid organotypic models constructed using biomaterials-based hydrogel scaffolds. Applicability of each platform has been experimentally validated.
 
   </div>
 </div>
@@ -55,7 +55,7 @@ Development of three-dimensional *in vitro* platforms as New Approach Methodolog
   <div class="research-text" markdown="1">
 
 ### Toxicity & activity assessment
-Integrated toxicity and pharmacological activity evaluation using *in vitro* bioassays, multi-omics approaches (metabolomics, lipidomics via QTOF HR-MS), and adverse outcome pathway (AOP) frameworks to characterize the safety and efficacy of chemical substances and natural product-derived compounds.
+Utilizing both newly developed and established alternative toxicology models, assay methods are optimized and systematically applied to evaluate chemical safety and biological activity. Multi-omics data (metabolomics, lipidomics) and AOP frameworks are integrated to enable multi-perspective interpretation of toxicological and pharmacological outcomes.
 
   </div>
 </div>
