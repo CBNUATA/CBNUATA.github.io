@@ -17,7 +17,7 @@ description: Research interests and areas of focus.
   }
   .research-row:nth-child(odd) { background: rgba(255, 255, 255, 0.04); }
   .research-row img {
-    width: 220px;
+    width: 320px;
     max-width: 100%;
     height: auto;
     object-fit: contain;
