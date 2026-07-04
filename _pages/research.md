@@ -27,33 +27,37 @@ description: Research interests and areas of focus.
   .research-row .research-text { flex: 1 1 320px; }
   .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0; margin-bottom: 0.75rem; }
 </style>
+
 My research sits at the intersection of analytical chemistry and toxicology, spanning the following areas:
+
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/chemical-characterization.jpg' | relative_url }}" alt="Chemical characterization & E&L">
+  <img src="{{ '/assets/img/research/chemical-characterization.jpg' | relative_url }}" alt="Suspect & non-target screening">
   <div class="research-text" markdown="1">
-### Chemical characterization & extractables/leachables (E&L)
-Non-targeted and targeted chemical characterization of medical devices in accordance with ISO 10993-18, using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC), GC-MS, ICP-OES, and FT-IR to identify and structurally characterize extractable chemical profiles.
+
+### Suspect & non-target screening
+Non-targeted and suspect screening of extractable and leachable chemicals from medical devices and natural product-derived materials, using HR-MS (Thermo Orbitrap Exploris 120, Orbitrap GC) and GC-MS to identify and structurally characterize chemical profiles in accordance with ISO 10993-18.
+
   </div>
 </div>
+
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/aop.jpg' | relative_url }}" alt="Endocrine disruptor toxicity & AOPs">
+  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development">
   <div class="research-text" markdown="1">
-### Endocrine disruptor toxicity & adverse outcome pathways (AOPs)
-Development of AOPs for environmental endocrine disruptors across in vitro models (H295R, 293FT, SF9, zebrafish embryos, *Daphnia magna*), including hormone receptor reporter assays (androgen, estrogen, thyroid), CYP450/CYP2D6 metabolism, and quantitative steroid hormone assays via LC-MS/MS and GC-MS/MS.
+
+### *In vitro* model development
+Development of three-dimensional *in vitro* platforms as New Approach Methodologies (NAMs), including thyroid spheroid microspheres engineered from peptide-modified hydrogels (GGGGRGDSP, GGGGTRSAW) and melt electrowriting (MEW)-based scaffolds, and receptor-based reporter cell lines (THR, AhR, EcR) for endocrine toxicity assessment.
+
   </div>
 </div>
+
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="Construction of in vitro models">
+  <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment">
   <div class="research-text" markdown="1">
-### Construction of in vitro models
-Development of three-dimensional *in vitro* platforms as New Approach Methodologies (NAMs) for alternative toxicology, including thyroid spheroid microspheres engineered from peptide-modified hydrogels (GGGGRGDSP, GGGGTRSAW) and melt electrowriting (MEW)-based scaffolds, to model thyroid cell function and evaluate endocrine-disrupting chemical (EDC) toxicity.
+
+### Toxicity & activity assessment
+Integrated toxicity and pharmacological activity evaluation using *in vitro* bioassays, multi-omics approaches (metabolomics, lipidomics via QTOF HR-MS), and adverse outcome pathway (AOP) frameworks to characterize the safety and efficacy of chemical substances and natural product-derived compounds.
+
   </div>
 </div>
-<div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/tobacco-smoke.jpg' | relative_url }}" alt="Environmental & tobacco-smoke toxicology">
-  <div class="research-text" markdown="1">
-### Environmental & tobacco-smoke toxicology
-In vitro toxicological evaluation of airborne particulate matter (PM2.5, coal combustion particles) and tobacco smoke constituents, including mutagenicity, cytotoxicity, and oxidative stress assays.
-  </div>
-</div>
+
 <!-- Add figures, funding acknowledgements, or links to specific research lines as needed. -->
