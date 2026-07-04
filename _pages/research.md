@@ -30,7 +30,7 @@ description: Research interests and areas of focus.
 My research sits at the intersection of analytical chemistry and toxicology, spanning the following areas:
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/chemical-characterization.jpg' | relative_url }}" alt="Suspect & non-target screening" style="width: 260px;">
+  <img src="{{ '/assets/img/research/chemical-characterization.jpg' | relative_url }}" alt="Suspect & non-target screening" style="width: 320px;">
   <div class="research-text" markdown="1">
 
 ### Suspect & non-target screening
@@ -40,7 +40,7 @@ Suspect and non-targeted screening of bioactive compounds and chemical contamina
 </div>
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development" style="width: 320px;">
+  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development" style="width: 400px;">
   <div class="research-text" markdown="1">
 
 ### *In vitro* model development
@@ -50,7 +50,7 @@ Development of *in vitro* bioassay platforms to evaluate the toxicological and p
 </div>
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment" style="width: 320px;">
+  <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment" style="width: 400px;">
   <div class="research-text" markdown="1">
 
 ### Toxicity & activity assessment
