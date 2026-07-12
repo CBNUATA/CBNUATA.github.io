@@ -55,7 +55,7 @@ description: Photos from the lab, fieldwork, and events.
 
 <div class="gallery-grid">
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/gallery/2018_4th_Medicinal_Plants_and_Natural_Products_Research_Osaka.jpg' | relative_url }}" alt="4th Medicinal Plants and Natural Products Research, Osaka, Japan">
+    <img src="{{ '/assets/img/gallery/2018_4th_Medicinal_Plants and_Natural_Products_Research_Osaka.jpg' | relative_url }}" alt="4th Medicinal Plants and Natural Products Research, Osaka, Japan">
     <figcaption>4th Medicinal Plants and Natural Products Research, Osaka, Japan</figcaption>
   </figure>
   <figure class="gallery-item">
