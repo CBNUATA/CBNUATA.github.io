@@ -6,14 +6,12 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 4
 ---
-
 <style>
-  /* Bold the site owner's own name in author lists instead of the default underline */
+  /* Bold and underline the site owner's own name in author lists */
   .publications u {
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
   }
-
   .publications ol {
     list-style: none;
     padding-left: 0;
@@ -28,19 +26,12 @@ nav_order: 4
     left: 0;
   }
 </style>
-
 <!-- _pages/publications.md -->
-
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
-
 <div class="publications">
-
 {% bibliography %}
-
 </div>
-
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var items = document.querySelectorAll('.publications ol > li');
