@@ -9,17 +9,22 @@ nav_order: 2
 
 # Advisor
 
-## Hyunki Cho (조현기)
-
-Associate Professor
-Department of Industrial Plant Science and Technology
-**Chungbuk National University**
-
-<div style="margin-top: 1rem; display: flex; gap: 1rem;">
-  <a href="mailto:your_email@chungbuk.ac.kr"><i class="fas fa-envelope fa-lg"></i></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
-  <a href="https://scholar.google.com/citations?user=your-id" target="_blank"><i class="ai ai-google-scholar fa-lg"></i></a>
-  <a href="https://github.com/your-github" target="_blank"><i class="fab fa-github fa-lg"></i></a>
+<div style="display: flex; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap; align-items: flex-start;">
+  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+       style="width: 260px; height: 260px; object-fit: cover; border-radius: 0.25rem; flex-shrink: 0;"
+       alt="Hyunki Cho">
+  <div style="flex: 1 1 300px; padding-top: 0.5rem;">
+    <h2 style="margin-bottom: 0.5rem;">Hyunki Cho (조현기)</h2>
+    <p style="margin: 0;">Associate Professor</p>
+    <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
+    <p style="margin: 0; font-weight: bold; color: #a3313c;">Chungbuk National University</p>
+    <div style="margin-top: 1rem; display: flex; gap: 1rem;">
+      <a href="mailto:your_email@chungbuk.ac.kr"><i class="fas fa-envelope fa-lg"></i></a>
+      <a href="https://linkedin.com/in/your-linkedin" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+      <a href="https://scholar.google.com/citations?user=your-id" target="_blank"><i class="ai ai-google-scholar fa-lg"></i></a>
+      <a href="https://github.com/your-github" target="_blank"><i class="fab fa-github fa-lg"></i></a>
+    </div>
+  </div>
 </div>
 
 ### Education
@@ -42,7 +47,7 @@ Department of Industrial Plant Science and Technology
 
   <div style="width: 220px; text-align: center;">
     <img src="{{ '/assets/img/team/member1.jpg' | relative_url }}"
-         style="width: 220px; height: 260px; object-fit: cover; border: 1px solid #ddd; border-radius: 0.25rem;"
+         style="width: 220px; height: 260px; object-fit: cover; border-radius: 0.25rem;"
          alt="Member Name">
     <p style="margin: 0.75rem 0 0; font-weight: bold;">Member Name (한글이름)</p>
     <p style="margin: 0;">PhD Student (석박통합과정)</p>
