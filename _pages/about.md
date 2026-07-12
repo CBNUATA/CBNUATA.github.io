@@ -23,7 +23,7 @@ latest_posts:
 </style>
 <div style="margin-bottom: 2rem;">
   <h2 style="font-size: clamp(1.05rem, 3.4vw, 1.5rem); font-weight: bold; margin-bottom: 0.75rem; white-space: nowrap;">Welcome to the Alternative Toxicology &amp; Analytics (AToxA) Lab</h2>
-  <p>We are the Alternative Toxicology & Analytics (ATA) Lab, based in the Department of Industrial Plant Science and Technology at Chungbuk National University, led by Dr. rer. nat. Hyunki Cho. Bridging alternative toxicology with plant science, our research focuses on non-target chemical screening, New Approach Methodologies (NAMs)-based in vitro platforms, and multi-omics integration for chemical safety and pharmacological activity assessment, with practical applications including toxicity assessment of hazardous substances, metabolite profiling following chemical exposure, and screening of plant-derived and xenobiotic metabolites.<p>
+  <p>We are the Alternative Toxicology & Analytics (AToxA) Lab, based in the Department of Industrial Plant Science and Technology at Chungbuk National University, led by Dr. rer. nat. Hyunki Cho. Bridging alternative toxicology with plant science, our research focuses on non-target chemical screening, New Approach Methodologies (NAMs)-based in vitro platforms, and multi-omics integration for chemical safety and pharmacological activity assessment, with practical applications including toxicity assessment of hazardous substances, metabolite profiling following chemical exposure, and screening of plant-derived and xenobiotic metabolites.<p>
     
 <p>We are looking for passionate new members including undergraduate interns, MS, and PhD students to join the team.</p>
 </div>
