@@ -18,12 +18,12 @@ nav_order: 2
     <p style="margin: 0;">Associate Professor</p>
     <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
     <p style="margin: 0; font-weight: bold; color: #a3313c;">Chungbuk National University</p>
-    <div style="margin-top: 1rem; display: flex; gap: 1rem;">
-      <a href="mailto:your_email@chungbuk.ac.kr"><i class="fas fa-envelope fa-lg"></i></a>
-      <a href="https://linkedin.com/in/your-linkedin" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
-      <a href="https://scholar.google.com/citations?user=your-id" target="_blank"><i class="ai ai-google-scholar fa-lg"></i></a>
-      <a href="https://github.com/your-github" target="_blank"><i class="fab fa-github fa-lg"></i></a>
-    </div>
+<div style="margin-top: 1rem; display: flex; gap: 1rem;">
+  <a href="mailto:a58713800@icloud.com"><i class="fas fa-envelope fa-lg"></i></a>
+  <a href="https://www.linkedin.com/in/hyunki-cho-60b393354" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+  <a href="https://scholar.google.com/citations?user=QkfTLzUAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar fa-lg"></i></a>
+  <a href="https://www.researchgate.net/profile/Hyunki-Cho-2?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate fa-lg"></i></a>
+</div>
   </div>
 </div>
 
