@@ -34,7 +34,7 @@ My research sits at the intersection of analytical chemistry and toxicology, spa
   <div class="research-text" markdown="1">
 
 ### Suspect & non-target screening
-Suspect and non-targeted screening of bioactive compounds and chemical contaminants using high-resolution mass spectrometry (HRMS), enabling systematic identification and structural characterization of chemical profiles from complex matrices.
+Complex matrices, including plant-derived materials and environmental or industrial samples, contain thousands of unknown chemical substances, some of which are bioactive compounds of interest and others potential risks to human health. The goal of this project is to systematically identify and characterize both plant-derived bioactive compounds and chemical contaminants using high-resolution mass spectrometry (HRMS). We apply suspect and non-targeted screening workflows to profile chemical composition and elucidate structural identity across diverse sample types.
 
   </div>
 </div>
@@ -43,8 +43,9 @@ Suspect and non-targeted screening of bioactive compounds and chemical contamina
   <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development" style="width: 460px;">
   <div class="research-text" markdown="1">
 
-### *In vitro* model development
-Development of *in vitro* bioassay platforms to evaluate the toxicological and pharmacological effects of plant-derived compounds and chemical substances. Established models include a granisetron-based CYP1A1 reporter assay, thyroid-specific evaluation systems (TSHR and TPO activity assays), and three-dimensional thyroid organotypic models constructed using biomaterials-based hydrogel scaffolds. Applicability of each platform has been experimentally validated.
+### *In Vitro* Model Development (NAMs)
+Conventional toxicity assays often suffer from low sensitivity, low throughput, and limited mechanistic resolution. The goal of this project is to develop New Approach Methodologies (NAMs) based in vitro platforms that overcome these limitations. We have established a granisetron-based CYP1A1 assay for sensitive, high-throughput toxicant screening. For thyroid endocrine disruption, various culture platforms, including biomaterial-based systems, were applied and optimized to enhance the sensitivity of T3/T4 endpoint detection. Reporter cell lines targeting hormone nuclear receptors were constructed using a 293FT platform, with molecular docking performed to support receptor-ligand interaction analysis. In Daphnia magna, lipidomic and metabolomic profiling was applied to indirectly confirm the underlying toxicity pathways. Zebrafish embryo models were used for adverse outcome pathway (AOP) development and endocrine disruption research, including a cross-species comparison confirming 5α-reductase inhibition; building on these findings, an H295R-based steroidogenesis assay is being developed to extend this AOP toward a broader NAMs platform.
+
 
   </div>
 </div>
@@ -54,7 +55,7 @@ Development of *in vitro* bioassay platforms to evaluate the toxicological and p
   <div class="research-text" markdown="1">
 
 ### Toxicity & activity assessment
-Utilizing both newly developed and established alternative toxicology models, assay methods are optimized and systematically applied to evaluate chemical safety and biological activity. Multi-omics data (metabolomics, lipidomics) and AOP frameworks are integrated to enable multi-perspective interpretation of toxicological and pharmacological outcomes.
+Chemical safety and biological activity require multi-perspective evaluation beyond single-endpoint testing. The goal of this project is to systematically apply alternative toxicology models to assess chemical hazards and pharmacological effects. We integrate multi-omics data, including transcriptomics, metabolomics, and lipidomics, with adverse outcome pathway (AOP) frameworks to interpret toxicological and pharmacological outcomes across multiple biological levels.
 
   </div>
 </div>
