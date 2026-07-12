@@ -7,12 +7,13 @@ nav: true
 nav_order: 4
 ---
 <style>
-  /* Bold and underline the site owner's own name in author lists */
-.publications ol.bibliography li .author > em {
-  font-weight: 700 !important;
-  text-decoration: underline !important;
-  font-style: normal !important;
-}
+  /* Bold the site owner's own name in author lists, keep theme's underline */
+  .publications ol.bibliography li .author > em {
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid !important;
+    font-style: normal !important;
+  }
   .publications ol {
     list-style: none;
     padding-left: 0;
