@@ -14,22 +14,16 @@ nav_order: 4
     text-decoration: none;
   }
 
-  /* Make publication numbering continuous across year groups instead of
-     restarting at 1 for each year */
-  .publications {
-    counter-reset: pub-counter;
-  }
   .publications ol {
     list-style: none;
     padding-left: 0;
   }
   .publications ol > li {
-    counter-increment: pub-counter;
     position: relative;
     padding-left: 2rem;
   }
   .publications ol > li::before {
-    content: counter(pub-counter) ".";
+    content: attr(data-pub-num) ".";
     position: absolute;
     left: 0;
   }
@@ -46,3 +40,13 @@ nav_order: 4
 {% bibliography %}
 
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var items = document.querySelectorAll('.publications ol > li');
+  var total = items.length;
+  items.forEach(function (li, idx) {
+    li.setAttribute('data-pub-num', total - idx);
+  });
+});
+</script>
