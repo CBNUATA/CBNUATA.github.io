@@ -9,7 +9,7 @@ nav_order: 4
 <style>
   /* Bold and underline the site owner's own name in author lists */
   .publications u {
-    font-weight: bold;
+    font-weight: bold !important;
     text-decoration: underline;
   }
   .publications ol {
@@ -39,7 +39,6 @@ document.addEventListener('DOMContentLoaded', function () {
   items.forEach(function (li, idx) {
     li.setAttribute('data-pub-num', total - idx);
   });
-
   // Add ✝ after specific co-first-authors in specific papers
   // Format: { 'bibkey': ['LastName1', 'LastName2'] }
   var equalContrib = {
@@ -48,7 +47,6 @@ document.addEventListener('DOMContentLoaded', function () {
     'kim2021steroid': ['Kim', 'Cho'],
     'cho2024turmeric': ['Cho', 'Park']
   };
-
   Object.keys(equalContrib).forEach(function (key) {
     var el = document.getElementById(key);
     if (!el) return;
