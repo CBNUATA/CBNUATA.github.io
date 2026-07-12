@@ -1,24 +1,59 @@
-<style>
-  .profile { width: 100% !important; }
-</style>
-<div style="text-align: center; margin: 1.5rem 0 2rem;">
-  <h2 style="margin-bottom: 0.5rem;">Hyunki Cho (조현기)</h2>
-  <p style="margin: 0;">Associate Professor</p>
-  <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
-  <p style="margin: 0; font-weight: bold;">Chungbuk National University</p>
+---
+layout: page
+title: Team
+permalink: /team/
+description: Members of the lab / group.
+nav: true
+nav_order: 2
+---
+
+# Advisor
+
+<div style="display: flex; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap; align-items: flex-start;">
+  <img src="{{ '/assets/img/hyunki_cho.jpg' | relative_url }}"
+       style="width: 260px; height: 260px; object-fit: cover; border: 1px solid #ddd; border-radius: 0.25rem; flex-shrink: 0;"
+       alt="Hyunki Cho">
+  <div style="flex: 1 1 300px; text-align: center; padding-top: 1rem;">
+    <h2 style="margin-bottom: 1rem;">Hyunki Cho (조현기)</h2>
+    <p style="margin: 0;">Associate Professor</p>
+    <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
+    <p style="margin: 0; font-weight: bold; color: #a3313c;">Chungbuk National University</p>
+    <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1rem;">
+      <a href="mailto:your_email@chungbuk.ac.kr"><i class="fas fa-envelope fa-lg"></i></a>
+      <a href="https://linkedin.com/in/your-linkedin" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+      <a href="https://scholar.google.com/citations?user=your-id" target="_blank"><i class="ai ai-google-scholar fa-lg"></i></a>
+      <a href="https://github.com/your-github" target="_blank"><i class="fab fa-github fa-lg"></i></a>
+    </div>
+  </div>
 </div>
 
-<h3>Education</h3>
-<ul>
-  <li>Dr. rer. nat. (Pharmacy), <span style="font-weight: bold;">Universität des Saarlandes</span>, Saarbrücken, Germany, 2020–2025</li>
-  <li>M.S. in Agriculture (Industrial Plant Science & Technology), <span style="font-weight: bold;">Chungbuk National University</span>, Republic of Korea, 2017–2019</li>
-  <li>B.S. in Agriculture (Industrial Plant Science & Technology) & B.S. (Biochemistry, Interdisciplinary Major), <span style="font-weight: bold;">Chungbuk National University</span>, Republic of Korea, 2011–2017</li>
-</ul>
-<h3>Work Experience</h3>
-<ul>
-  <li>Senior Researcher, <span style="font-weight: bold;">Korea Testing &amp; Research Institute (KTR)</span>, Gwacheon, Republic of Korea, Apr 2025 – Aug 2026</li>
-  <li>Doctoral Researcher, <span style="font-weight: bold;">KIST-Europe</span>, Saarbrücken, Germany, Nov 2019 – Apr 2025</li>
-  <li>Researcher, <span style="font-weight: bold;">KAIST</span> (Cancer Metastasis and Epigenetics Lab), Daejeon, Republic of Korea, Sep–Oct 2019</li>
-  <li>Researcher, <span style="font-weight: bold;">Chungbuk National University</span> (Tobacco Smoke Analysis Center), Cheongju, Republic of Korea, Jan 2017 – Aug 2019</li>
-  <li>Researcher, <span style="font-weight: bold;">Chungbuk National University</span> (PM2.5 Research Consortium), Cheongju, Republic of Korea, Jun 2015 – May 2017</li>
-</ul>
+### Education
+- Dr. rer. nat. (Pharmacy), **Universität des Saarlandes**, Saarbrücken, Germany, 2020–2025
+- M.S. in Agriculture (Industrial Plant Science & Technology), **Chungbuk National University**, Republic of Korea, 2017–2019
+- B.S. in Agriculture (Industrial Plant Science & Technology) & B.S. (Biochemistry, Interdisciplinary Major), **Chungbuk National University**, Republic of Korea, 2011–2017
+
+### Work Experience
+- Senior Researcher, **Korea Testing & Research Institute (KTR)**, Gwacheon, Republic of Korea, Apr 2025 – Aug 2026
+- Doctoral Researcher, **KIST-Europe**, Saarbrücken, Germany, Nov 2019 – Apr 2025
+- Researcher, **KAIST** (Cancer Metastasis and Epigenetics Lab), Daejeon, Republic of Korea, Sep–Oct 2019
+- Researcher, **Chungbuk National University** (Tobacco Smoke Analysis Center), Cheongju, Republic of Korea, Jan 2017 – Aug 2019
+- Researcher, **Chungbuk National University** (PM2.5 Research Consortium), Cheongju, Republic of Korea, Jun 2015 – May 2017
+
+<br>
+
+# Researchers
+
+<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 1.5rem;">
+
+  <div style="width: 220px; text-align: center;">
+    <img src="{{ '/assets/img/team/member1.jpg' | relative_url }}"
+         style="width: 220px; height: 260px; object-fit: cover; border: 1px solid #ddd; border-radius: 0.25rem;"
+         alt="Member Name">
+    <p style="margin: 0.75rem 0 0; font-weight: bold;">Member Name (한글이름)</p>
+    <p style="margin: 0;">PhD Student (석박통합과정)</p>
+    <p style="margin: 0; color: #888;">Sept. 2026 -</p>
+  </div>
+
+  <!-- 멤버 추가 시 위 블록을 복사해서 아래에 반복 붙여넣기 -->
+
+</div>
