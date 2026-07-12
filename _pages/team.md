@@ -50,8 +50,8 @@ nav_order: 2
          style="width: 220px; height: 260px; object-fit: cover; border-radius: 0.25rem;"
          alt="Member Name">
     <p style="margin: 0.75rem 0 0; font-weight: bold;">Member Name (한글이름)</p>
-    <p style="margin: 0;">PhD Student (석박통합과정)</p>
-    <p style="margin: 0; color: #888;">Sept. 2026 -</p>
+    <p style="margin: 0;">Cource (과정)</p>
+    <p style="margin: 0; color: #888;">XX. 202X -</p>
   </div>
 
   <!-- 멤버 추가 시 위 블록을 복사해서 아래에 반복 붙여넣기 -->
