@@ -23,7 +23,7 @@ description: Research interests and areas of focus.
     border-radius: 0.5rem;
     flex-shrink: 0;
   }
-  .research-row .research-text { flex: 1 1 320px; }
+  .research-row .research-text { flex: 1 1 300px; }
   .research-row h3 { font-size: 1.6rem; font-weight: 800; margin-top: 0; margin-bottom: 0.75rem; }
 </style>
 
@@ -40,7 +40,7 @@ Complex matrices, including plant-derived materials and environmental or industr
 </div>
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development" style="width: 460px;">
+  <img src="{{ '/assets/img/research/in-vitro-model.jpg' | relative_url }}" alt="In vitro model development" style="width: 380px;">
   <div class="research-text" markdown="1">
 
 ### *In Vitro* Model Development (NAMs)
@@ -51,7 +51,7 @@ Conventional toxicity assays often suffer from low sensitivity, low throughput, 
 </div>
 
 <div class="research-row" markdown="1">
-  <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment" style="width: 440px;">
+  <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment" style="width: 360px;">
   <div class="research-text" markdown="1">
 
 ### Toxicity & Activity Assessment
