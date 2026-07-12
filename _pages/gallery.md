@@ -6,7 +6,6 @@ nav: true
 nav_order: 7
 description: Photos from the lab, fieldwork, and events.
 ---
-
 <style>
   .gallery-grid {
     display: grid;
@@ -28,21 +27,17 @@ description: Photos from the lab, fieldwork, and events.
     line-height: 1.4;
   }
 </style>
-
 ## 2026
-
 <div class="gallery-grid">
   <figure class="gallery-item">
     <img src="{{ '/assets/img/gallery/2026_Lab_workshop.jpg' | relative_url }}" alt="2026 Lab Workshop, Jeonju">
     <figcaption>2026 Lab Workshop, Jeonju</figcaption>
   </figure>
 </div>
-
 ## 2019
-
 <div class="gallery-grid">
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/gallery/2019_67th_ICSMPNPR_Innsbruck.jpg' | relative_url }}" alt="67th ICSMPNPR, Innsbruck">
+    <img src="{{ '/assets/img/gallery/2019_67th _AFERP_Innsbruck.jpg' | relative_url }}" alt="67th ICSMPNPR, Innsbruck">
     <figcaption>67th International Congress and Annual Meeting of the Society for Medicinal Plant and Natural Product Research. AFERP : Innsbruck, Austria, 2019</figcaption>
   </figure>
   <figure class="gallery-item">
@@ -50,9 +45,7 @@ description: Photos from the lab, fieldwork, and events.
     <figcaption>2019 Lab Workshop, Cheongju</figcaption>
   </figure>
 </div>
-
 ## 2018
-
 <div class="gallery-grid">
   <figure class="gallery-item">
     <img src="{{ '/assets/img/gallery/2018_4th_Medicinal_Plants and_Natural_Products_Research_Osaka.jpg' | relative_url }}" alt="4th Medicinal Plants and Natural Products Research, Osaka, Japan">
@@ -71,9 +64,7 @@ description: Photos from the lab, fieldwork, and events.
     <figcaption>2018 Lab Workshop 2, Songnisan Mountain</figcaption>
   </figure>
 </div>
-
 ## 2017
-
 <div class="gallery-grid">
   <figure class="gallery-item">
     <img src="{{ '/assets/img/gallery/2017_25th_ACS_Bali.jpg' | relative_url }}" alt="25th ACS, Bali, Indonesia">
