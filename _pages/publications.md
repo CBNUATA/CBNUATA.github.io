@@ -10,7 +10,7 @@ nav_order: 4
   /* Bold and underline the site owner's own name in author lists */
   .publications u {
     font-weight: bold !important;
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
   .publications ol {
     list-style: none;
