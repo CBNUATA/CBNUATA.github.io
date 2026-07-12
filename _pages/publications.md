@@ -39,5 +39,22 @@ document.addEventListener('DOMContentLoaded', function () {
   items.forEach(function (li, idx) {
     li.setAttribute('data-pub-num', total - idx);
   });
+
+  // Add ✝ after specific co-first-authors in specific papers
+  // Format: { 'bibkey': ['LastName1', 'LastName2'] }
+  var equalContrib = {
+    'jun2023thyroid': ['Jun', 'Cho']
+  };
+
+  Object.keys(equalContrib).forEach(function (key) {
+    var el = document.getElementById(key);
+    if (!el) return;
+    equalContrib[key].forEach(function (lastName) {
+      el.innerHTML = el.innerHTML.replace(
+        new RegExp('(' + lastName + ')(?=,|\\s*<)', 'g'),
+        '$1✝'
+      );
+    });
+  });
 });
 </script>
