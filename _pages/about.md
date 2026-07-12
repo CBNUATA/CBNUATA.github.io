@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Associate Professor, Department of Industrial Plant and Science, Chungbuk National University
+subtitle: Assistant Professor, Department of Industrial Plant and Science, Chungbuk National University
 profile:
 selected_papers: false
 social: true
