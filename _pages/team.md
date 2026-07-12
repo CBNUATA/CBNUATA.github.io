@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# Advisor
+# Principal Investigator
 
 <div style="display: flex; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap; align-items: flex-start;">
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
