@@ -15,7 +15,7 @@ nav_order: 2
        alt="Hyunki Cho">
   <div style="flex: 1 1 300px; padding-top: 0.5rem;">
     <h2 style="margin-bottom: 0.5rem;">Hyunki Cho (조현기)</h2>
-    <p style="margin: 0;">Associate Professor</p>
+    <p style="margin: 0;">Assistant Professor</p>
     <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
     <p style="margin: 0;">Chungbuk National University</p>
 <div style="margin-top: 1rem; display: flex; gap: 1rem;">
