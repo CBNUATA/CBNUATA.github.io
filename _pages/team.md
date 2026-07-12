@@ -11,7 +11,7 @@ nav_order: 2
 
 <div style="display: flex; gap: 3rem; margin-bottom: 2rem; flex-wrap: wrap; align-items: flex-start;">
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
-       style="width: 260px; height: 260px; object-fit: cover; border-radius: 0.25rem; flex-shrink: 0;"
+       style="width: 260px; height: 320px; object-fit: cover; border-radius: 0.25rem; flex-shrink: 0;"
        alt="Hyunki Cho">
   <div style="flex: 1 1 300px; padding-top: 0.5rem;">
     <h2 style="margin-bottom: 0.5rem;">Hyunki Cho (조현기)</h2>
