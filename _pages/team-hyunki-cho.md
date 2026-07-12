@@ -3,12 +3,11 @@
 </style>
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <h2 style="margin-bottom: 0.5rem;">Hyunki Cho (조현기)</h2>
-  <p style="margin: 0;">Senior Researcher</p>
-  <p style="margin: 0;">Medical Device-Bio Division / Medical Device Evaluation Center</p>
-  <p style="margin: 0; font-weight: bold;">Korea Testing &amp; Research Institute (KTR)</p>
+  <p style="margin: 0;">Associate Professor</p>
+  <p style="margin: 0;">Department of Industrial Plant Science and Technology</p>
+  <p style="margin: 0; font-weight: bold;">Chungbuk National University</p>
 </div>
 
-<p>I hold a Dr. rer. nat. in Naturwissenschaftlich-Technische Fakultät (Pharmazie) from Universität des Saarlandes, Germany, with doctoral research conducted at KIST-Europe under Prof. Dr. Markus R. Meyer and Prof. Dr. Alexandra K. Kiemer. My work spans ISO 10993-18 extractables &amp; leachables (E&amp;L) analysis, in vitro toxicology using AOP frameworks, multi-omics approaches, and biocompatibility assessment of medical devices.</p>
 <h3>Education</h3>
 <ul>
   <li>Dr. rer. nat. (Pharmacy), <span style="font-weight: bold;">Universität des Saarlandes</span>, Saarbrücken, Germany, 2020–2025</li>
@@ -17,7 +16,7 @@
 </ul>
 <h3>Work Experience</h3>
 <ul>
-  <li>Senior Researcher, <span style="font-weight: bold;">Korea Testing &amp; Research Institute (KTR)</span>, Gwacheon, Republic of Korea, Apr 2025 – Present</li>
+  <li>Senior Researcher, <span style="font-weight: bold;">Korea Testing &amp; Research Institute (KTR)</span>, Gwacheon, Republic of Korea, Apr 2025 – Aug 2026</li>
   <li>Doctoral Researcher, <span style="font-weight: bold;">KIST-Europe</span>, Saarbrücken, Germany, Nov 2019 – Apr 2025</li>
   <li>Researcher, <span style="font-weight: bold;">KAIST</span> (Cancer Metastasis and Epigenetics Lab), Daejeon, Republic of Korea, Sep–Oct 2019</li>
   <li>Researcher, <span style="font-weight: bold;">Chungbuk National University</span> (Tobacco Smoke Analysis Center), Cheongju, Republic of Korea, Jan 2017 – Aug 2019</li>
