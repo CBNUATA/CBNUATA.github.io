@@ -8,10 +8,10 @@ nav_order: 4
 ---
 <style>
   /* Bold and underline the site owner's own name in author lists */
-  .publications u {
-    font-weight: bold !important;
-    text-decoration: underline !important;
-  }
+.publications ol.bibliography li u {
+  font-weight: 700 !important;
+  text-decoration: underline !important;
+}
   .publications ol {
     list-style: none;
     padding-left: 0;
