@@ -33,7 +33,7 @@ My research sits at the intersection of analytical chemistry and toxicology, spa
   <img src="{{ '/assets/img/research/chemical-characterization.jpg' | relative_url }}" alt="Suspect & non-target screening" style="width: 320px;">
   <div class="research-text" markdown="1">
 
-### Suspect & non-target screening
+### Suspect & Non-Target Screening
 Complex matrices, including plant-derived materials and environmental or industrial samples, contain thousands of unknown chemical substances, some of which are bioactive compounds of interest and others potential risks to human health. The goal of this project is to systematically identify and characterize both plant-derived bioactive compounds and chemical contaminants using high-resolution mass spectrometry (HRMS). We apply suspect and non-targeted screening workflows to profile chemical composition and elucidate structural identity across diverse sample types.
 
   </div>
@@ -54,7 +54,7 @@ Conventional toxicity assays often suffer from low sensitivity, low throughput, 
   <img src="{{ '/assets/img/research/assessment.jpg' | relative_url }}" alt="Toxicity & activity assessment" style="width: 440px;">
   <div class="research-text" markdown="1">
 
-### Toxicity & activity assessment
+### Toxicity & Activity Assessment
 Chemical safety and biological activity require multi-perspective evaluation beyond single-endpoint testing. The goal of this project is to systematically apply alternative toxicology models to assess chemical hazards and pharmacological effects. We integrate multi-omics data, including transcriptomics, metabolomics, and lipidomics, with adverse outcome pathway (AOP) frameworks to interpret toxicological and pharmacological outcomes across multiple biological levels.
 
   </div>
