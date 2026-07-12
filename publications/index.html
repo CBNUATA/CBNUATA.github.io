@@ -30,6 +30,23 @@ document.addEventListener('DOMContentLoaded', function () {
   items.forEach(function (li, idx) {
     li.setAttribute('data-pub-num', total - idx);
   });
+
+  // Add ✝ after specific co-first-authors in specific papers
+  // Format: { 'bibkey': ['LastName1', 'LastName2'] }
+  var equalContrib = {
+    'jun2023thyroid': ['Jun', 'Cho']
+  };
+
+  Object.keys(equalContrib).forEach(function (key) {
+    var el = document.getElementById(key);
+    if (!el) return;
+    equalContrib[key].forEach(function (lastName) {
+      el.innerHTML = el.innerHTML.replace(
+        new RegExp('(' + lastName + ')(?=,|\\s*<)', 'g'),
+        '$1✝'
+      );
+    });
+  });
 });
 </script> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Hyunki Cho. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
